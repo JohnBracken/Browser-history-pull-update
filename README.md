@@ -8,7 +8,4 @@ for site visits.  Finally, these formatted browser histories are
 written to CSV files.  Note that this task can be scheduled by setting up
 a cron job from terminal:
 
-```
-$crontab -e
-
-``` 
+```$crontab -e``` 
